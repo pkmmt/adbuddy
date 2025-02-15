@@ -58,7 +58,7 @@ const adSelectors = [
     
     const contentTypes = [
       { type: 'Daily Inspiration', items: quotes },
-      { type: 'Wellness Check', items: reminders },
+      { type: 'Daily Reminder', items: reminders },
       { type: 'Mindful Moment', items: [
         "Take a moment to appreciate the present.",
         "Focus on your breath for a few seconds.",
